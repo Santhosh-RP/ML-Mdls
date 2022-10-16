@@ -1,2 +1,2 @@
 # ML-Mdls
-This repository for ML models 
+Python code for ML models 
